@@ -44,8 +44,7 @@ $(document).ready(function() {
     $("#id4").append("<li>" + cancun.location + "</li>");
     $("#id4").append("<li>" + cancun.landmark + "</li>");
     $("#id4").append("<li>" + cancun.time + "</li>");
-    $("#id4").append("<li>" + cancun.notes + "</li>");
-    
+    $("#id4").append("<li>" + cancun.notes + "</li>");    
   });
 });
 
